@@ -1,0 +1,9 @@
+.container{
+    flex-direction: column;
+}
+.box2{
+    margin-left: 2rem;
+}
+h1{
+    font-size: 2rem;
+}
